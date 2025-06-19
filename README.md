@@ -2,6 +2,9 @@
 
 A responsive and interactive random number generator built using **HTML**, **CSS**, and **JavaScript**. This web app allows users to generate random numbers, view history, undo actions, and reset the board — all with a clean and modern UI.
 
+# Live Preview
+https://nanny04.github.io/Housie-Game-Number-Generator/
+
 # Tech Stack
 
 - HTML5
