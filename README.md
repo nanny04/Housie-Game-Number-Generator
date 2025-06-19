@@ -41,6 +41,3 @@ A responsive and interactive random number generator built using **HTML**, **CSS
 
 ## Author
    Naniveesh Raj – @nanny04
-
-## License
-   This project is open-source and available under the MIT License
