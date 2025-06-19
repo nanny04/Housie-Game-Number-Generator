@@ -29,3 +29,11 @@ https://nanny04.github.io/Housie-Game-Number-Generator/
   Optimized for desktop, tablet, and mobile devices.
 
 
+## 🚀 Getting Started
+
+ **Clone the repository**
+   ```bash
+   git clone https://github.com/nanny04/Housie-Game-Number-Generator.git
+
+  # Author
+  username – @nanny04
